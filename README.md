@@ -52,26 +52,26 @@ a subset of records. The enrichment pipeline:
 Graded book inventory with cost vs. current value analysis, top valuable 
 slabs, and KPI cards for total graded value, cost, gain/loss, and count.
 
-![CGC Summary](screenshots/cgc_summary.png)
+![CGC Summary](Screenshots/cgc_summary.png)
 
 ### Title Analysis
 Collection breakdown by title group (Spider-Man, X-Books, Avengers, etc.), 
 issue counts, total value, and dynamic donut chart toggling between 
 issue count and price sum.
 
-![Title Analysis](screenshots/title_analysis.png)
+![Title Analysis](Screenshots/title_analysis.png)
 
 ### Research Titles To Sell
 Selling research tool with value trend filtering, % price change year over 
 year, publisher treemap, and GN/Single Issue filtering.
 
-![Selling Research](screenshots/selling_research.png)
+![Selling Research](Screenshots/selling_research.png)
 
 ### Titles by Trend and Change %
 Year-over-year value change analysis showing biggest movers with 
 prior year vs. current year pricing.
 
-![Trend Analysis](screenshots/trend_analysis.png)
+![Trend Analysis](Screenshots/trend_analysis.png)
 
 ## Keeping It Fresh
 
